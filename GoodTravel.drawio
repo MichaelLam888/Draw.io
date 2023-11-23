@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-23T06:16:54.120Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="g-RDtMw_o39kRcrzBM1e" version="22.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-23T06:20:20.037Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="rti-0BEdu0rWfoCE4bFe" version="22.1.3" type="github">
   <diagram name="Page-1" id="SrOD3sqG6qAQk4lOOv39">
-    <mxGraphModel dx="1574" dy="969" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2230" dy="1373" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -69,7 +69,7 @@
           <mxGeometry x="1110" y="150" width="160" height="75" as="geometry" />
         </mxCell>
         <mxCell id="_T38tnK4JkUB8tug089S-23" value="自動出機票Email&lt;br&gt;給用戶" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="815" y="460" width="160" height="70" as="geometry" />
+          <mxGeometry x="540" y="460" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="_T38tnK4JkUB8tug089S-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" parent="1" source="_T38tnK4JkUB8tug089S-23" target="_T38tnK4JkUB8tug089S-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -82,11 +82,20 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="5ci3WktFbxMDCFuh7EF1-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="_T38tnK4JkUB8tug089S-26" target="5ci3WktFbxMDCFuh7EF1-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1200" y="420" />
+              <mxPoint x="1065" y="420" />
+              <mxPoint x="1065" y="493" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="_T38tnK4JkUB8tug089S-26" value="南華&lt;br&gt;落Order訂機票" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="1120" y="310" width="160" height="75" as="geometry" />
         </mxCell>
         <mxCell id="_T38tnK4JkUB8tug089S-29" value="南華&lt;br&gt;每星期出invoice 找數" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="1120" y="460" width="160" height="75" as="geometry" />
+          <mxGeometry x="1195" y="460" width="160" height="75" as="geometry" />
         </mxCell>
         <mxCell id="_T38tnK4JkUB8tug089S-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" parent="1" source="_T38tnK4JkUB8tug089S-35" target="_T38tnK4JkUB8tug089S-37" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -125,9 +134,6 @@
         <mxCell id="_T38tnK4JkUB8tug089S-45" value="南華&lt;br&gt;落Order訂酒店" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="1120" y="625" width="160" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="_T38tnK4JkUB8tug089S-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" parent="1" source="_T38tnK4JkUB8tug089S-49" target="_T38tnK4JkUB8tug089S-23" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="_T38tnK4JkUB8tug089S-49" value="付款成功" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="820" y="320" width="160" height="70" as="geometry" />
         </mxCell>
@@ -140,7 +146,7 @@
             <mxPoint x="1119" y="337" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_T38tnK4JkUB8tug089S-31" value="傳送PNR&lt;br&gt;南華 API&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;" parent="1" vertex="1">
+        <mxCell id="_T38tnK4JkUB8tug089S-31" value="傳送PNR" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;" parent="1" vertex="1">
           <mxGeometry x="1000" y="332.5" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_T38tnK4JkUB8tug089S-15" value="Galileo API" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;" parent="1" vertex="1">
@@ -162,11 +168,14 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1200" y="385" as="sourcePoint" />
             <mxPoint x="1200" y="460" as="targetPoint" />
-            <Array as="points" />
+            <Array as="points">
+              <mxPoint x="1250" y="400" />
+              <mxPoint x="1250" y="400" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="_T38tnK4JkUB8tug089S-32" value="Email" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;" parent="1" vertex="1">
-          <mxGeometry x="1150" y="420" width="100" height="30" as="geometry" />
+          <mxGeometry x="1195" y="420" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_T38tnK4JkUB8tug089S-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" parent="1" source="_T38tnK4JkUB8tug089S-40" target="_T38tnK4JkUB8tug089S-43" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -227,6 +236,12 @@
         </mxCell>
         <mxCell id="5ci3WktFbxMDCFuh7EF1-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.622;entryY=-0.035;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="_T38tnK4JkUB8tug089S-12" target="_T38tnK4JkUB8tug089S-49">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5ci3WktFbxMDCFuh7EF1-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="5ci3WktFbxMDCFuh7EF1-9" target="_T38tnK4JkUB8tug089S-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5ci3WktFbxMDCFuh7EF1-9" value="GoodTravel&lt;br&gt;後台" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="820" y="460" width="160" height="75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
